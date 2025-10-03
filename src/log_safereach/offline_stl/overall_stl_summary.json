@@ -1,0 +1,1083 @@
+{
+  "modes": [
+    "Law38_0_2",
+    "Law38_1_1",
+    "Law38_2_1",
+    "Law38_2_2",
+    "Law44_2",
+    "Law53_0_1"
+  ],
+  "num_modes": 6,
+  "specs": [
+    {
+      "kind": "F",
+      "a": 0.0,
+      "b": 2.0,
+      "theta": 0.5,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "F[0.0,2.0]_collision==1"
+    },
+    {
+      "kind": "F",
+      "a": 0.0,
+      "b": 2.0,
+      "theta": 0.7,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "F[0.0,2.0]_collision==1"
+    },
+    {
+      "kind": "F",
+      "a": 0.0,
+      "b": 2.0,
+      "theta": 0.9,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "F[0.0,2.0]_collision==1"
+    },
+    {
+      "kind": "F",
+      "a": 0.0,
+      "b": 5.0,
+      "theta": 0.5,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "F[0.0,5.0]_collision==1"
+    },
+    {
+      "kind": "F",
+      "a": 0.0,
+      "b": 5.0,
+      "theta": 0.7,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "F[0.0,5.0]_collision==1"
+    },
+    {
+      "kind": "F",
+      "a": 0.0,
+      "b": 5.0,
+      "theta": 0.9,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "F[0.0,5.0]_collision==1"
+    },
+    {
+      "kind": "G",
+      "a": 0.0,
+      "b": 2.0,
+      "theta": 0.5,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "G[0.0,2.0]_collision==1"
+    },
+    {
+      "kind": "G",
+      "a": 0.0,
+      "b": 2.0,
+      "theta": 0.7,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "G[0.0,2.0]_collision==1"
+    },
+    {
+      "kind": "G",
+      "a": 0.0,
+      "b": 5.0,
+      "theta": 0.5,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "G[0.0,5.0]_collision==1"
+    },
+    {
+      "kind": "G",
+      "a": 0.0,
+      "b": 5.0,
+      "theta": 0.7,
+      "predicate": {
+        "collision": 1
+      },
+      "key": "G[0.0,5.0]_collision==1"
+    }
+  ],
+  "entries": [
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.04613089820647184,
+      "mc_prob_pct": 0.0,
+      "improved": 0.04613089820647184
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.3129220153226338,
+      "mc_prob_pct": 0.1,
+      "improved": 0.3129220153226338
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.3099396056343243,
+      "mc_prob_pct": 0.0,
+      "improved": 0.3099396056343243
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.02552004392523929,
+      "mc_prob_pct": 0.0,
+      "improved": 0.02552004392523929
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.008100661973375889,
+      "mc_prob_pct": 0.0,
+      "improved": 0.008100661973375889
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.2810630591394192,
+      "mc_prob_pct": 0.2,
+      "improved": 0.2810630591394192
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.04613089820647184,
+      "mc_prob_pct": 0.0,
+      "improved": 0.04613089820647184
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.3129220153226338,
+      "mc_prob_pct": 0.0,
+      "improved": 0.3129220153226338
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.3099396056343243,
+      "mc_prob_pct": 0.2,
+      "improved": 0.3099396056343243
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.02552004392523929,
+      "mc_prob_pct": 0.0,
+      "improved": 0.02552004392523929
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.008100661973375889,
+      "mc_prob_pct": 0.0,
+      "improved": 0.008100661973375889
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.2810630591394192,
+      "mc_prob_pct": 0.5,
+      "improved": 0.2810630591394192
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.04613089820647184,
+      "mc_prob_pct": 0.0,
+      "improved": 0.04613089820647184
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.3129220153226338,
+      "mc_prob_pct": 0.2,
+      "improved": 0.3129220153226338
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.3099396056343243,
+      "mc_prob_pct": 0.1,
+      "improved": 0.3099396056343243
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.02552004392523929,
+      "mc_prob_pct": 0.0,
+      "improved": 0.02552004392523929
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.008100661973375889,
+      "mc_prob_pct": 0.0,
+      "improved": 0.008100661973375889
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.2810630591394192,
+      "mc_prob_pct": 0.2,
+      "improved": 0.2810630591394192
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.11936109907172612,
+      "mc_prob_pct": 0.1,
+      "improved": 0.11936109907172612
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.63554615750201,
+      "mc_prob_pct": 0.6,
+      "improved": 0.63554615750201
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.8147894460837435,
+      "mc_prob_pct": 0.7000000000000001,
+      "improved": 0.8147894460837435
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.07135007095143428,
+      "mc_prob_pct": 0.0,
+      "improved": 0.07135007095143428
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.017674061051166368,
+      "mc_prob_pct": 0.0,
+      "improved": 0.017674061051166368
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.7312042304692845,
+      "mc_prob_pct": 0.5,
+      "improved": 0.7312042304692845
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.11936109907172612,
+      "mc_prob_pct": 0.1,
+      "improved": 0.11936109907172612
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.63554615750201,
+      "mc_prob_pct": 1.0,
+      "improved": 0.63554615750201
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.8147894460837435,
+      "mc_prob_pct": 0.3,
+      "improved": 0.8147894460837435
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.07135007095143428,
+      "mc_prob_pct": 0.1,
+      "improved": 0.07135007095143428
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.017674061051166368,
+      "mc_prob_pct": 0.0,
+      "improved": 0.017674061051166368
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.7312042304692845,
+      "mc_prob_pct": 0.3,
+      "improved": 0.7312042304692845
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.11936109907172612,
+      "mc_prob_pct": 0.0,
+      "improved": 0.11936109907172612
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.63554615750201,
+      "mc_prob_pct": 0.6,
+      "improved": 0.63554615750201
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.8147894460837435,
+      "mc_prob_pct": 0.4,
+      "improved": 0.8147894460837435
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.07135007095143428,
+      "mc_prob_pct": 0.0,
+      "improved": 0.07135007095143428
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.017674061051166368,
+      "mc_prob_pct": 0.1,
+      "improved": 0.017674061051166368
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "F",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.9,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.7312042304692845,
+      "mc_prob_pct": 0.5,
+      "improved": 0.7312042304692845
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 2.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.5,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_0_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_1_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law38_2_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law44_2",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    },
+    {
+      "mode": "Law53_0_1",
+      "spec": {
+        "kind": "G",
+        "a": 0.0,
+        "b": 5.0,
+        "theta": 0.7,
+        "predicate": {
+          "collision": 1
+        }
+      },
+      "baseline_pct": 0.0,
+      "optimized_prob_pct": 0.0,
+      "mc_prob_pct": 0.0,
+      "improved": 0.0
+    }
+  ],
+  "avg_baseline_pct": 0.0,
+  "avg_optimized_prob_pct": 0.16868006746654146,
+  "avg_mc_prob_pct": 0.11333333333333333,
+  "improved_cases": 36,
+  "total_cases": 60,
+  "mode_tags_validation": {
+    "loaded": false
+  }
+}

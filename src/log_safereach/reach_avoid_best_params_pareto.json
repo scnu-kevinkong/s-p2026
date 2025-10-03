@@ -1,0 +1,38 @@
+{
+  "Law38_2_1": {
+    "theta_min": 0.3,
+    "theta_max": 0.6,
+    "time_cap": 3.0,
+    "source": "pareto"
+  },
+  "Law38_2_2": {
+    "theta_min": 0.3,
+    "theta_max": 0.6,
+    "time_cap": 3.0,
+    "source": "pareto"
+  },
+  "Law44_2": {
+    "theta_min": 0.2,
+    "theta_max": 0.6,
+    "time_cap": 3.0,
+    "source": "pareto"
+  },
+  "Law53_0_1": {
+    "theta_min": 0.3,
+    "theta_max": 0.6,
+    "time_cap": 3.0,
+    "source": "pareto"
+  },
+  "Law38_1_1": {
+    "theta_min": 0.3,
+    "theta_max": 0.6,
+    "time_cap": 3.0,
+    "source": "pareto"
+  },
+  "Law38_0_2": {
+    "theta_min": 0.2,
+    "theta_max": 0.6,
+    "time_cap": 3.0,
+    "source": "pareto"
+  }
+}

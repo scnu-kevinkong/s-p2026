@@ -1,0 +1,7 @@
+law,theta_min,theta_max,time_cap,source
+Law38_2_1,0.3,0.6,3.0,pareto
+Law38_2_2,0.3,0.6,3.0,pareto
+Law44_2,0.2,0.6,3.0,pareto
+Law53_0_1,0.3,0.6,3.0,pareto
+Law38_1_1,0.3,0.6,3.0,pareto
+Law38_0_2,0.2,0.6,3.0,pareto

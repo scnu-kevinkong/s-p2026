@@ -1,0 +1,48 @@
+{
+  "folder": "log_raw_t177",
+  "spec": {
+    "kind": "G",
+    "a": 0.0,
+    "b": 5.0,
+    "theta": 0.7,
+    "predicate": {
+      "unsafe": "1"
+    }
+  },
+  "baseline": {
+    "baseline_total_logs": 30,
+    "baseline_satisfied": 0,
+    "baseline_pct": 0.0
+  },
+  "optimized": {
+    "optimized_prob": 0.0,
+    "initial_states": 30,
+    "a_steps": 0,
+    "b_steps": 5,
+    "mc_trials": 1000,
+    "mc_prob": 0.0,
+    "mc_stderr": 0.0,
+    "mc_ci95_low": 0.0,
+    "mc_ci95_high": 0.0,
+    "mc_vs_optimized_delta": 0.0
+  },
+  "proguard_offline": {
+    "reach": {
+      "unsafe_pct_before": 0.0,
+      "unsafe_pct_after": 0.0,
+      "completion_pct": 0.0
+    },
+    "law": {
+      "prediction_pct": {
+        "0.3": 100.0,
+        "0.5": 0.0,
+        "0.7": 0.0
+      },
+      "time_ahead_s": {
+        "0.3": 1.0,
+        "0.5": 0.0,
+        "0.7": 0.0
+      }
+    }
+  }
+}

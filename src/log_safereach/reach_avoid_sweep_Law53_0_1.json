@@ -1,0 +1,749 @@
+{
+  "law": "Law53_0_1",
+  "theta_mins": [
+    0.2,
+    0.3,
+    0.4
+  ],
+  "theta_maxs": [
+    0.6,
+    0.7,
+    0.85
+  ],
+  "time_caps": [
+    3.0,
+    5.0,
+    8.0
+  ],
+  "results": [
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.6,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.6,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.6,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.6,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.6,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.6,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.7,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.7,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.7,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.7,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.7,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.7,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.85,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.85,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.85,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.85,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.2,
+      "theta_max": 0.85,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 0.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.2,
+        "theta_max": 0.85,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.6,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.6,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.6,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.6,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.6,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.6,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.7,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.7,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.7,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.7,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.7,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.7,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.85,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.85,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.85,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.85,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.3,
+      "theta_max": 0.85,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.85,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.6,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.6,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.6,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.6,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.6,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.6,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.7,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.7,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.7,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.7,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.7,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.7,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.85,
+      "time_cap": 3.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.85,
+        "time_cap": 3.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.85,
+      "time_cap": 5.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.85,
+        "time_cap": 5.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    },
+    {
+      "theta_min": 0.4,
+      "theta_max": 0.85,
+      "time_cap": 8.0,
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": true,
+        "theta_min": 0.4,
+        "theta_max": 0.85,
+        "time_cap": 8.0
+      },
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      }
+    }
+  ]
+}

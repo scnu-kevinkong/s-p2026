@@ -1,0 +1,36 @@
+{
+  "laws": [
+    "Law38_0_2",
+    "Law38_2_2",
+    "Law38_1_1",
+    "Law44_2",
+    "Law38_2_1",
+    "Law53_0_1"
+  ],
+  "counts": {
+    "Law38_0_2": {
+      "total": 27,
+      "pareto": 27
+    },
+    "Law38_2_2": {
+      "total": 27,
+      "pareto": 18
+    },
+    "Law38_1_1": {
+      "total": 27,
+      "pareto": 6
+    },
+    "Law44_2": {
+      "total": 27,
+      "pareto": 27
+    },
+    "Law38_2_1": {
+      "total": 27,
+      "pareto": 18
+    },
+    "Law53_0_1": {
+      "total": 27,
+      "pareto": 18
+    }
+  }
+}

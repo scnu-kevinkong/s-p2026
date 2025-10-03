@@ -1,0 +1,48 @@
+{
+  "folder": "log_raw_t53",
+  "spec": {
+    "kind": "F",
+    "a": 0.0,
+    "b": 5.0,
+    "theta": 0.9,
+    "predicate": {
+      "unsafe": "1"
+    }
+  },
+  "baseline": {
+    "baseline_total_logs": 30,
+    "baseline_satisfied": 0,
+    "baseline_pct": 0.0
+  },
+  "optimized": {
+    "optimized_prob": 0.39780288670199887,
+    "initial_states": 30,
+    "a_steps": 0,
+    "b_steps": 5,
+    "mc_trials": 1000,
+    "mc_prob": 0.35,
+    "mc_stderr": 0.015083103128998356,
+    "mc_ci95_low": 0.3204371178671632,
+    "mc_ci95_high": 0.37956288213283673,
+    "mc_vs_optimized_delta": -0.04780288670199889
+  },
+  "proguard_offline": {
+    "reach": {
+      "unsafe_pct_before": 0.0,
+      "unsafe_pct_after": 0.0,
+      "completion_pct": 0.0
+    },
+    "law": {
+      "prediction_pct": {
+        "0.3": 100.0,
+        "0.5": 0.0,
+        "0.7": 0.0
+      },
+      "time_ahead_s": {
+        "0.3": 1.0,
+        "0.5": 0.0,
+        "0.7": 0.0
+      }
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "top3": [
+    "Law53_0_1",
+    "Law38_2_2",
+    "Law38_2_1"
+  ],
+  "summaries": [
+    {
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      }
+    },
+    {
+      "law": {
+        "folder": "Law38_2_2",
+        "total_cases": 33,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law38_2_2",
+        "total_cases": 33,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 15.151515151515152,
+        "theta": 0.5,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.7,
+        "time_cap": 5.0
+      }
+    },
+    {
+      "law": {
+        "folder": "Law38_2_1",
+        "total_cases": 34,
+        "prediction_pct": {
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law38_2_1",
+        "total_cases": 34,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 5.882352941176471,
+        "theta": 0.5,
+        "adapt": true,
+        "theta_min": 0.3,
+        "theta_max": 0.7,
+        "time_cap": 5.0
+      }
+    }
+  ]
+}

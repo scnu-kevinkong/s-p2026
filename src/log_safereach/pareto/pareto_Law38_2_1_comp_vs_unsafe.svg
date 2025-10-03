@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500">
+<text x="400.0" y="30" font-size="16" text-anchor="middle">Law38_2_1: Completion vs Unsafe (color=time-ahead)</text>
+<line x1="60" y1="440" x2="740" y2="440" stroke="#333"/>
+<line x1="60" y1="60" x2="60" y2="440" stroke="#333"/>
+<text x="400.0" y="480" font-size="12" text-anchor="middle">Unsafe % (lower better)</text>
+<text x="20" y="250.0" font-size="12" transform="rotate(-90 20,250.0)" text-anchor="middle">Completion % (higher better)</text>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="440.0" r="5" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="red" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+<circle cx="60.0" cy="60.0" r="7" fill="rgb(127,80,178)" stroke="none" stroke-width="2"/>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="392" viewBox="0 0 1200 392">
+<title>Expected Improvement: Prediction(0.7) % range by Law</title>
+<text x="600.00" y="30.00" font-size="18" font-weight="bold" text-anchor="middle" fill="#333">Expected Improvement: Prediction(0.7) % range by Law</text>
+<text x="100.00" y="55.00" font-size="12" font-weight="normal" text-anchor="start" fill="#333">%</text>
+<line x1="100.00" y1="70.00" x2="1100.00" y2="70.00" stroke="#888" stroke-width="1.00" />
+<line x1="100.00" y1="66.00" x2="100.00" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="100.00" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">0.00</text>
+<line x1="266.67" y1="66.00" x2="266.67" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="266.67" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">13.70</text>
+<line x1="433.33" y1="66.00" x2="433.33" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="433.33" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">27.40</text>
+<line x1="600.00" y1="66.00" x2="600.00" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="600.00" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">41.10</text>
+<line x1="766.67" y1="66.00" x2="766.67" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="766.67" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">54.79</text>
+<line x1="933.33" y1="66.00" x2="933.33" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="933.33" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">68.49</text>
+<line x1="1100.00" y1="66.00" x2="1100.00" y2="74.00" stroke="#888" stroke-width="1.00" />
+<text x="1100.00" y="60.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#333">82.19</text>
+<text x="90.00" y="108.00" font-size="12" font-weight="normal" text-anchor="end" fill="#333">Law38_1_1</text>
+<line x1="957.84" y1="104.00" x2="1100.00" y2="104.00" stroke="#59A14F" stroke-width="4.00" />
+<line x1="957.84" y1="100.00" x2="957.84" y2="108.00" stroke="#59A14F" stroke-width="2.00" />
+<line x1="1100.00" y1="100.00" x2="1100.00" y2="108.00" stroke="#59A14F" stroke-width="2.00" />
+<text x="1028.92" y="100.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#2F4B7C">76.35</text>
+<text x="90.00" y="140.00" font-size="12" font-weight="normal" text-anchor="end" fill="#333">Law53_0_1</text>
+<line x1="261.82" y1="136.00" x2="423.62" y2="136.00" stroke="#59A14F" stroke-width="4.00" />
+<line x1="261.82" y1="132.00" x2="261.82" y2="140.00" stroke="#59A14F" stroke-width="2.00" />
+<line x1="423.62" y1="132.00" x2="423.62" y2="140.00" stroke="#59A14F" stroke-width="2.00" />
+<text x="342.72" y="132.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#2F4B7C">19.95</text>
+<text x="90.00" y="172.00" font-size="12" font-weight="normal" text-anchor="end" fill="#333">Law38_2_2</text>
+<line x1="261.17" y1="168.00" x2="422.35" y2="168.00" stroke="#59A14F" stroke-width="4.00" />
+<line x1="261.17" y1="164.00" x2="261.17" y2="172.00" stroke="#59A14F" stroke-width="2.00" />
+<line x1="422.35" y1="164.00" x2="422.35" y2="172.00" stroke="#59A14F" stroke-width="2.00" />
+<text x="341.76" y="164.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#2F4B7C">19.87</text>
+<text x="90.00" y="204.00" font-size="12" font-weight="normal" text-anchor="end" fill="#333">Law38_2_1</text>
+<line x1="257.50" y1="200.00" x2="414.99" y2="200.00" stroke="#59A14F" stroke-width="4.00" />
+<line x1="257.50" y1="196.00" x2="257.50" y2="204.00" stroke="#59A14F" stroke-width="2.00" />
+<line x1="414.99" y1="196.00" x2="414.99" y2="204.00" stroke="#59A14F" stroke-width="2.00" />
+<text x="336.24" y="196.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#2F4B7C">19.42</text>
+<text x="90.00" y="236.00" font-size="12" font-weight="normal" text-anchor="end" fill="#333">Law38_0_2</text>
+<line x1="224.88" y1="232.00" x2="349.76" y2="232.00" stroke="#59A14F" stroke-width="4.00" />
+<line x1="224.88" y1="228.00" x2="224.88" y2="236.00" stroke="#59A14F" stroke-width="2.00" />
+<line x1="349.76" y1="228.00" x2="349.76" y2="236.00" stroke="#59A14F" stroke-width="2.00" />
+<text x="287.32" y="228.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#2F4B7C">15.40</text>
+<text x="90.00" y="268.00" font-size="12" font-weight="normal" text-anchor="end" fill="#333">Law44_2</text>
+<line x1="203.13" y1="264.00" x2="306.24" y2="264.00" stroke="#59A14F" stroke-width="4.00" />
+<line x1="203.13" y1="260.00" x2="203.13" y2="268.00" stroke="#59A14F" stroke-width="2.00" />
+<line x1="306.24" y1="260.00" x2="306.24" y2="268.00" stroke="#59A14F" stroke-width="2.00" />
+<text x="254.68" y="260.00" font-size="12" font-weight="normal" text-anchor="middle" fill="#2F4B7C">12.71</text>
+</svg>

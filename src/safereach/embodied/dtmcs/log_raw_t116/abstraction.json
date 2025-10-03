@@ -1,0 +1,1 @@
+{"objectTypes": ["Pan", "StoveKnob"], "keys": ["isFilledWithLiquid", "isToggled"], "parentReceptacles": ["StoveBurner"]}

@@ -1,0 +1,78 @@
+{
+  "mode": "adaptive",
+  "summary": {
+    "counts": 6,
+    "unsafe_better": 0,
+    "completion_better": 0,
+    "pred_better": 0,
+    "timeahead_better": 0
+  },
+  "rows": [
+    {
+      "law": "Law38_0_2",
+      "pre_unsafe": 0.0,
+      "post_unsafe": 0.0,
+      "pre_comp": 100.0,
+      "post_comp": 100.0,
+      "pre_pred07": 0.0,
+      "post_pred07": 0.0,
+      "pre_ta07": 0.0,
+      "post_ta07": 0.0
+    },
+    {
+      "law": "Law38_1_1",
+      "pre_unsafe": 0.0,
+      "post_unsafe": 0.0,
+      "pre_comp": 41.1764705882353,
+      "post_comp": 41.1764705882353,
+      "pre_pred07": 58.8235294117647,
+      "post_pred07": 58.8235294117647,
+      "pre_ta07": 27.87227259,
+      "post_ta07": 27.87227259
+    },
+    {
+      "law": "Law38_2_1",
+      "pre_unsafe": 0.0,
+      "post_unsafe": 0.0,
+      "pre_comp": 100.0,
+      "post_comp": 100.0,
+      "pre_pred07": 0.0,
+      "post_pred07": 0.0,
+      "pre_ta07": 0.0,
+      "post_ta07": 0.0
+    },
+    {
+      "law": "Law38_2_2",
+      "pre_unsafe": 0.0,
+      "post_unsafe": 0.0,
+      "pre_comp": 100.0,
+      "post_comp": 100.0,
+      "pre_pred07": 0.0,
+      "post_pred07": 0.0,
+      "pre_ta07": 0.0,
+      "post_ta07": 0.0
+    },
+    {
+      "law": "Law44_2",
+      "pre_unsafe": 0.0,
+      "post_unsafe": 0.0,
+      "pre_comp": 100.0,
+      "post_comp": 100.0,
+      "pre_pred07": 0.0,
+      "post_pred07": 0.0,
+      "pre_ta07": 0.0,
+      "post_ta07": 0.0
+    },
+    {
+      "law": "Law53_0_1",
+      "pre_unsafe": 0.0,
+      "post_unsafe": 0.0,
+      "pre_comp": 100.0,
+      "post_comp": 100.0,
+      "pre_pred07": 0.0,
+      "post_pred07": 0.0,
+      "pre_ta07": 0.0,
+      "post_ta07": 0.0
+    }
+  ]
+}

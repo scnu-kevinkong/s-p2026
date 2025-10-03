@@ -1,0 +1,57 @@
+{
+  "folder": "Law53_0_1",
+  "spec": {
+    "kind": "F",
+    "a": 0.0,
+    "b": 5.0,
+    "theta": 0.9,
+    "predicate": {
+      "collision": 1
+    }
+  },
+  "baseline": {
+    "baseline_total_logs": 32,
+    "baseline_satisfied": 0,
+    "baseline_pct": 0.0
+  },
+  "optimized": {
+    "optimized_prob": 0.007312042304692845,
+    "initial_states": 32,
+    "a_steps": 0,
+    "b_steps": 5,
+    "mc_trials": 1000,
+    "mc_prob": 0.005,
+    "mc_stderr": 0.0022304708023195463,
+    "mc_ci95_low": 0.0006282772274536896,
+    "mc_ci95_high": 0.00937172277254631,
+    "mc_vs_optimized_delta": -0.002312042304692845
+  },
+  "proguard_offline": {
+    "law": {
+      "folder": "Law53_0_1",
+      "total_cases": 32,
+      "prediction_pct": {
+        "0.3": 0.0,
+        "0.5": 0.0,
+        "0.7": 0.0
+      },
+      "time_ahead_s": {
+        "0.3": 0.0,
+        "0.5": 0.0,
+        "0.7": 0.0
+      }
+    },
+    "reach": {
+      "folder": "Law53_0_1",
+      "total_cases": 32,
+      "unsafe_pct_before": 0.0,
+      "unsafe_pct_after": 0.0,
+      "completion_pct": 100.0,
+      "theta": 0.8,
+      "adapt": false,
+      "theta_min": 0.5,
+      "theta_max": 0.5,
+      "time_cap": 5.0
+    }
+  }
+}

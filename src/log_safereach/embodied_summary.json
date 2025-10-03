@@ -1,0 +1,26 @@
+{
+  "theta": 0.7,
+  "adapt": false,
+  "theta_min": 0.7,
+  "theta_max": 0.7,
+  "steps_cap": 10,
+  "step_time_s": 1.0,
+  "total_cases": 3888,
+  "reach": {
+    "unsafe_pct_before": 37.91,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 60.93
+  },
+  "law": {
+    "prediction_pct": {
+      "0.3": 80.47839506172839,
+      "0.5": 39.81481481481482,
+      "0.7": 39.068930041152264
+    },
+    "time_ahead_s": {
+      "0.3": 1.0009587727708533,
+      "0.5": 1.0025839793281655,
+      "0.7": 1.0072416063199474
+    }
+  }
+}

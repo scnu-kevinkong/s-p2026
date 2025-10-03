@@ -1,0 +1,1 @@
+{"objectTypes": ["Bowl", "CellPhone"], "keys": ["isFilledWithLiquid"], "parentReceptacles": ["Bowl"]}

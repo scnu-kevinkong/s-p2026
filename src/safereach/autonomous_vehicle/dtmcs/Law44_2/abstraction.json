@@ -1,0 +1,1 @@
+{"predicates": [["currentLanenumber", ">=", "201"], ["speed", ">=", "20"]], "reach": ["reach_destination", "==", "1"], "collision": ["collision", "==", "1"]}

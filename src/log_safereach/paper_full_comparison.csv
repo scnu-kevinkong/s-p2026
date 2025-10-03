@@ -1,0 +1,9 @@
+section,metric,value
+AV,unsafe_pct_after,
+AV,completion_pct,
+AV,prediction_pct@0.7,
+AV,time_ahead_s@0.7,
+Embodied,unsafe_pct_after,0.0
+Embodied,completion_pct,60.93
+Embodied,prediction_pct@0.7,39.068930041152264
+Embodied,time_ahead_s@0.7,1.0072416063199474

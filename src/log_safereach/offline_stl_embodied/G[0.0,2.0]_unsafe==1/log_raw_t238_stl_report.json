@@ -1,0 +1,48 @@
+{
+  "folder": "log_raw_t238",
+  "spec": {
+    "kind": "G",
+    "a": 0.0,
+    "b": 2.0,
+    "theta": 0.7,
+    "predicate": {
+      "unsafe": "1"
+    }
+  },
+  "baseline": {
+    "baseline_total_logs": 30,
+    "baseline_satisfied": 30,
+    "baseline_pct": 100.0
+  },
+  "optimized": {
+    "optimized_prob": 1.2432290637117598e-06,
+    "initial_states": 30,
+    "a_steps": 0,
+    "b_steps": 2,
+    "mc_trials": 1000,
+    "mc_prob": 0.001,
+    "mc_stderr": 0.0009994998749374609,
+    "mc_ci95_low": 0.0,
+    "mc_ci95_high": 0.0029590197548774234,
+    "mc_vs_optimized_delta": 0.0009987567709362883
+  },
+  "proguard_offline": {
+    "reach": {
+      "unsafe_pct_before": 100.0,
+      "unsafe_pct_after": 100.0,
+      "completion_pct": 0.0
+    },
+    "law": {
+      "prediction_pct": {
+        "0.3": 100.0,
+        "0.5": 100.0,
+        "0.7": 100.0
+      },
+      "time_ahead_s": {
+        "0.3": 1.0,
+        "0.5": 1.0,
+        "0.7": 1.0
+      }
+    }
+  }
+}

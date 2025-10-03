@@ -1,0 +1,23 @@
+{
+  "fixed": {
+    "counts": 6,
+    "unsafe_better": 0,
+    "completion_better": 0,
+    "pred_better": 0,
+    "timeahead_better": 0
+  },
+  "adaptive": {
+    "counts": 6,
+    "unsafe_better": 0,
+    "completion_better": 0,
+    "pred_better": 0,
+    "timeahead_better": 0
+  },
+  "adaptive_stay": {
+    "counts": 6,
+    "unsafe_better": 0,
+    "completion_better": 0,
+    "pred_better": 0,
+    "timeahead_better": 0
+  }
+}

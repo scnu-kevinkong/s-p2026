@@ -1,0 +1,412 @@
+===== AV Evaluation Summary =====
+{
+  "law": {
+    "folder": "Law38_2_2",
+    "total_cases": 33,
+    "prediction_pct": {
+      "0.3": 100.0,
+      "0.5": 0.0,
+      "0.7": 0.0
+    },
+    "time_ahead_s": {
+      "0.3": 498.55377499133334,
+      "0.5": 0.0,
+      "0.7": 0.0
+    }
+  },
+  "reach": {
+    "folder": "Law38_2_2",
+    "total_cases": 33,
+    "unsafe_pct_before": 0.0,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 100.0,
+    "theta": 0.5,
+    "adapt": false,
+    "theta_min": 0.5,
+    "theta_max": 0.5,
+    "time_cap": 5.0
+  },
+  "crash": {
+    "folder": "Law38_2_2",
+    "total_cases": 33,
+    "avg_p_collision": 0.35044253156873917
+  }
+}
+===== AV Evaluation Summary =====
+{
+  "law": {
+    "folder": "Law38_2_1",
+    "total_cases": 34,
+    "prediction_pct": {
+      "0.3": 94.11764705882354,
+      "0.5": 0.0,
+      "0.7": 0.0
+    },
+    "time_ahead_s": {
+      "0.3": 0.07684568425,
+      "0.5": 0.0,
+      "0.7": 0.0
+    }
+  },
+  "reach": {
+    "folder": "Law38_2_1",
+    "total_cases": 34,
+    "unsafe_pct_before": 0.0,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 100.0,
+    "theta": 0.5,
+    "adapt": false,
+    "theta_min": 0.5,
+    "theta_max": 0.5,
+    "time_cap": 5.0
+  },
+  "crash": {
+    "folder": "Law38_2_1",
+    "total_cases": 34,
+    "avg_p_collision": 0.3275610443107665
+  }
+}
+===== AV Evaluation Summary =====
+{
+  "law": {
+    "folder": "Law38_0_2",
+    "total_cases": 35,
+    "prediction_pct": {
+      "0.3": 88.57142857142857,
+      "0.5": 0.0,
+      "0.7": 0.0
+    },
+    "time_ahead_s": {
+      "0.3": 3730.714365629549,
+      "0.5": 0.0,
+      "0.7": 0.0
+    }
+  },
+  "reach": {
+    "folder": "Law38_0_2",
+    "total_cases": 35,
+    "unsafe_pct_before": 0.0,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 100.0,
+    "theta": 0.5,
+    "adapt": false,
+    "theta_min": 0.5,
+    "theta_max": 0.5,
+    "time_cap": 5.0
+  },
+  "crash": {
+    "folder": "Law38_0_2",
+    "total_cases": 35,
+    "avg_p_collision": 0.2757690965991845
+  }
+}
+===== AV Evaluation Summary =====
+{
+  "law": {
+    "folder": "Law44_2",
+    "total_cases": 32,
+    "prediction_pct": {
+      "0.3": 18.75,
+      "0.5": 0.0,
+      "0.7": 0.0
+    },
+    "time_ahead_s": {
+      "0.3": 11705.493539416346,
+      "0.5": 0.0,
+      "0.7": 0.0
+    }
+  },
+  "reach": {
+    "folder": "Law44_2",
+    "total_cases": 32,
+    "unsafe_pct_before": 0.0,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 100.0,
+    "theta": 0.4,
+    "adapt": false,
+    "theta_min": 0.5,
+    "theta_max": 0.5,
+    "time_cap": 5.0
+  },
+  "crash": {
+    "folder": "Law44_2",
+    "total_cases": 32,
+    "avg_p_collision": 0.2685109794763094
+  }
+}
+===== AV Evaluation Summary =====
+{
+  "law": {
+    "folder": "Law53_0_1",
+    "total_cases": 32,
+    "prediction_pct": {
+      "0.3": 100.0,
+      "0.5": 0.0,
+      "0.7": 0.0
+    },
+    "time_ahead_s": {
+      "0.3": 0.04968584678125,
+      "0.5": 0.0,
+      "0.7": 0.0
+    }
+  },
+  "reach": {
+    "folder": "Law53_0_1",
+    "total_cases": 32,
+    "unsafe_pct_before": 0.0,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 100.0,
+    "theta": 0.8,
+    "adapt": false,
+    "theta_min": 0.5,
+    "theta_max": 0.5,
+    "time_cap": 5.0
+  },
+  "crash": {
+    "folder": "Law53_0_1",
+    "total_cases": 32,
+    "avg_p_collision": 0.3502502246211532
+  }
+}
+===== AV Evaluation Summary =====
+{
+  "law": {
+    "folder": "Law38_1_1",
+    "total_cases": 51,
+    "prediction_pct": {
+      "0.3": 58.8235294117647,
+      "0.5": 58.8235294117647,
+      "0.7": 58.8235294117647
+    },
+    "time_ahead_s": {
+      "0.3": 501.501998565666,
+      "0.5": 27274.942608837304,
+      "0.7": 27274.942608837304
+    }
+  },
+  "reach": {
+    "folder": "Law38_1_1",
+    "total_cases": 51,
+    "unsafe_pct_before": 58.8235294117647,
+    "unsafe_pct_after": 0.0,
+    "completion_pct": 41.1764705882353,
+    "theta": 0.4,
+    "adapt": false,
+    "theta_min": 0.5,
+    "theta_max": 0.5,
+    "time_cap": 5.0
+  },
+  "crash": {
+    "folder": "Law38_1_1",
+    "total_cases": 51,
+    "avg_p_collision": 0.20872474351614173
+  }
+}
+===== AV Evaluation All Folders =====
+{
+  "thresholds": [
+    0.3,
+    0.5,
+    0.7
+  ],
+  "summaries": [
+    {
+      "law": {
+        "folder": "Law38_2_2",
+        "total_cases": 33,
+        "prediction_pct": {
+          "0.3": 100.0,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 498.55377499133334,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law38_2_2",
+        "total_cases": 33,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.5,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      },
+      "crash": {
+        "folder": "Law38_2_2",
+        "total_cases": 33,
+        "avg_p_collision": 0.35044253156873917
+      }
+    },
+    {
+      "law": {
+        "folder": "Law38_2_1",
+        "total_cases": 34,
+        "prediction_pct": {
+          "0.3": 94.11764705882354,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 0.07684568425,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law38_2_1",
+        "total_cases": 34,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.5,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      },
+      "crash": {
+        "folder": "Law38_2_1",
+        "total_cases": 34,
+        "avg_p_collision": 0.3275610443107665
+      }
+    },
+    {
+      "law": {
+        "folder": "Law38_0_2",
+        "total_cases": 35,
+        "prediction_pct": {
+          "0.3": 88.57142857142857,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 3730.714365629549,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law38_0_2",
+        "total_cases": 35,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.5,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      },
+      "crash": {
+        "folder": "Law38_0_2",
+        "total_cases": 35,
+        "avg_p_collision": 0.2757690965991845
+      }
+    },
+    {
+      "law": {
+        "folder": "Law44_2",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.3": 18.75,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 11705.493539416346,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law44_2",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.4,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      },
+      "crash": {
+        "folder": "Law44_2",
+        "total_cases": 32,
+        "avg_p_collision": 0.2685109794763094
+      }
+    },
+    {
+      "law": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "prediction_pct": {
+          "0.3": 100.0,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 0.04968584678125,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "reach": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "unsafe_pct_before": 0.0,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 100.0,
+        "theta": 0.8,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      },
+      "crash": {
+        "folder": "Law53_0_1",
+        "total_cases": 32,
+        "avg_p_collision": 0.3502502246211532
+      }
+    },
+    {
+      "law": {
+        "folder": "Law38_1_1",
+        "total_cases": 51,
+        "prediction_pct": {
+          "0.3": 58.8235294117647,
+          "0.5": 58.8235294117647,
+          "0.7": 58.8235294117647
+        },
+        "time_ahead_s": {
+          "0.3": 501.501998565666,
+          "0.5": 27274.942608837304,
+          "0.7": 27274.942608837304
+        }
+      },
+      "reach": {
+        "folder": "Law38_1_1",
+        "total_cases": 51,
+        "unsafe_pct_before": 58.8235294117647,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 41.1764705882353,
+        "theta": 0.4,
+        "adapt": false,
+        "theta_min": 0.5,
+        "theta_max": 0.5,
+        "time_cap": 5.0
+      },
+      "crash": {
+        "folder": "Law38_1_1",
+        "total_cases": 51,
+        "avg_p_collision": 0.20872474351614173
+      }
+    }
+  ]
+}

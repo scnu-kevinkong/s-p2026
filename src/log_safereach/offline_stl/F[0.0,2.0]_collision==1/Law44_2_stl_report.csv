@@ -1,0 +1,13 @@
+metric,value
+baseline_pct,0.000000
+optimized_prob,0.000081
+mc_prob,0.000000
+unsafe_pct_before,0.000000
+unsafe_pct_after,0.000000
+completion_pct,100.000000
+prediction_pct@0.3,0.000000
+prediction_pct@0.5,0.000000
+prediction_pct@0.7,0.000000
+time_ahead_s@0.3,0.000000
+time_ahead_s@0.5,0.000000
+time_ahead_s@0.7,0.000000

@@ -1,0 +1,7 @@
+spec,law,completion_pct,unsafe_after_pct,prediction_pct@0.3,prediction_pct@0.5,prediction_pct@0.7,time_ahead_s@0.3,time_ahead_s@0.5,time_ahead_s@0.7,report_path
+"F[0.0,2.0]_collision==1",Law38_0_2,100.0,0.0,88.57142857142857,0.0,0.0,3730.714365629549,0.0,0.0,"src/log_safereach/offline_stl/F[0.0,2.0]_collision==1/Law38_0_2_stl_report.json"
+"F[0.0,2.0]_collision==1",Law38_1_1,41.1764705882353,0.0,58.8235294117647,58.8235294117647,58.8235294117647,501.501998565666,27274.942608837304,27274.942608837304,"src/log_safereach/offline_stl/F[0.0,2.0]_collision==1/Law38_1_1_stl_report.json"
+"F[0.0,2.0]_collision==1",Law38_2_1,100.0,0.0,94.11764705882354,0.0,0.0,0.07684568425,0.0,0.0,"src/log_safereach/offline_stl/F[0.0,2.0]_collision==1/Law38_2_1_stl_report.json"
+"F[0.0,2.0]_collision==1",Law38_2_2,100.0,0.0,100.0,0.0,0.0,498.55377499133334,0.0,0.0,"src/log_safereach/offline_stl/F[0.0,2.0]_collision==1/Law38_2_2_stl_report.json"
+"F[0.0,2.0]_collision==1",Law44_2,100.0,0.0,18.75,0.0,0.0,11705.493539416346,0.0,0.0,"src/log_safereach/offline_stl/F[0.0,2.0]_collision==1/Law44_2_stl_report.json"
+"F[0.0,2.0]_collision==1",Law53_0_1,100.0,0.0,100.0,0.0,0.0,0.04968584678125,0.0,0.0,"src/log_safereach/offline_stl/F[0.0,2.0]_collision==1/Law53_0_1_stl_report.json"

@@ -1,0 +1,19 @@
+{
+  "unsaturated_laws": [
+    "Law38_1_1"
+  ],
+  "best_by_law": {
+    "Law38_1_1": {
+      "law": "Law38_1_1",
+      "theta_min": 0.3,
+      "theta_max": 0.6,
+      "time_cap": 2.0,
+      "metrics": {
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 41.1764705882353,
+        "prediction_pct@0.7": 58.8235294117647,
+        "time_ahead_s@0.7": 27.87227259
+      }
+    }
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "notes": {
+    "aii_av_definition": "AII = 0.5*timeout + 0.3*norm_pk_growth + 0.2*unsafe (from offline_meta)",
+    "aii_embodied_definition": "AII_embodied = alt_success_after_failure_rate (from embodied_eval.log)",
+    "disclaimer": "Heuristic diagnostic for prioritization; not formal guarantees."
+  },
+  "av": [
+    {
+      "law": "Law38_2_2",
+      "baseline": {
+        "completion_pct": 100.0,
+        "unsafe_pct_after": 0.0,
+        "prediction_pct": {
+          "0.3": 100.0,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 498.55377499133334,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "offline_meta": {
+        "pk5": 0.02175537628528505,
+        "pk10": 0.03250907018060875,
+        "pk20": 0.048542006672366536,
+        "unsafe": 0.44786287975535244,
+        "timeout": 0.5521371202446476,
+        "safe_done": 0.0
+      },
+      "action_influence_index": 0.662,
+      "expected_improvements": {
+        "completion_pct_range": [
+          100.0,
+          100.0
+        ],
+        "prediction_0.7_pct_range": [
+          13.247,
+          26.494
+        ],
+        "time_ahead_factor_range": [
+          1.199,
+          1.464
+        ],
+        "unsafe_after_pct_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "law": "Law38_2_1",
+      "baseline": {
+        "completion_pct": 100.0,
+        "unsafe_pct_after": 0.0,
+        "prediction_pct": {
+          "0.3": 94.11764705882354,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 0.07684568425,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "offline_meta": {
+        "pk5": 0.009348722950835232,
+        "pk10": 0.01836945657166833,
+        "pk20": 0.03406657889630095,
+        "unsafe": 0.4218611976809283,
+        "timeout": 0.5781388023190717,
+        "safe_done": 0.0
+      },
+      "action_influence_index": 0.647,
+      "expected_improvements": {
+        "completion_pct_range": [
+          100.0,
+          100.0
+        ],
+        "prediction_0.7_pct_range": [
+          12.945,
+          25.889
+        ],
+        "time_ahead_factor_range": [
+          1.194,
+          1.453
+        ],
+        "unsafe_after_pct_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "law": "Law38_0_2",
+      "baseline": {
+        "completion_pct": 100.0,
+        "unsafe_pct_after": 0.0,
+        "prediction_pct": {
+          "0.3": 88.57142857142857,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 3730.714365629549,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "offline_meta": {
+        "pk5": 0.004150254464193198,
+        "pk10": 0.008202814430840437,
+        "pk20": 0.01537086123311166,
+        "unsafe": 0.37024851454893964,
+        "timeout": 0.6297514854510604,
+        "safe_done": 0.0
+      },
+      "action_influence_index": 0.513,
+      "expected_improvements": {
+        "completion_pct_range": [
+          100.0,
+          100.0
+        ],
+        "prediction_0.7_pct_range": [
+          10.264,
+          20.528
+        ],
+        "time_ahead_factor_range": [
+          1.154,
+          1.359
+        ],
+        "unsafe_after_pct_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "law": "Law44_2",
+      "baseline": {
+        "completion_pct": 100.0,
+        "unsafe_pct_after": 0.0,
+        "prediction_pct": {
+          "0.3": 18.75,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 11705.493539416346,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "offline_meta": {
+        "pk5": 0.0010481741010242036,
+        "pk10": 0.002144769436672995,
+        "pk20": 0.004259455118509711,
+        "unsafe": 0.37264262572289153,
+        "timeout": 0.6273573742771085,
+        "safe_done": 0.0
+      },
+      "action_influence_index": 0.424,
+      "expected_improvements": {
+        "completion_pct_range": [
+          100.0,
+          100.0
+        ],
+        "prediction_0.7_pct_range": [
+          8.476,
+          16.951
+        ],
+        "time_ahead_factor_range": [
+          1.127,
+          1.297
+        ],
+        "unsafe_after_pct_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "law": "Law53_0_1",
+      "baseline": {
+        "completion_pct": 100.0,
+        "unsafe_pct_after": 0.0,
+        "prediction_pct": {
+          "0.3": 100.0,
+          "0.5": 0.0,
+          "0.7": 0.0
+        },
+        "time_ahead_s": {
+          "0.3": 0.04968584678125,
+          "0.5": 0.0,
+          "0.7": 0.0
+        }
+      },
+      "offline_meta": {
+        "pk5": 0.010250103234573102,
+        "pk10": 0.02013732435349879,
+        "pk20": 0.03733431278538604,
+        "unsafe": 0.45005277631649837,
+        "timeout": 0.5499472236835017,
+        "safe_done": 0.0
+      },
+      "action_influence_index": 0.665,
+      "expected_improvements": {
+        "completion_pct_range": [
+          100.0,
+          100.0
+        ],
+        "prediction_0.7_pct_range": [
+          13.3,
+          26.599
+        ],
+        "time_ahead_factor_range": [
+          1.199,
+          1.465
+        ],
+        "unsafe_after_pct_range": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "law": "Law38_1_1",
+      "baseline": {
+        "completion_pct": 41.1764705882353,
+        "unsafe_pct_after": 19.607843137254903,
+        "prediction_pct": {
+          "0.3": 58.8235294117647,
+          "0.5": 58.8235294117647,
+          "0.7": 58.8235294117647
+        },
+        "time_ahead_s": {
+          "0.3": 501.501998565666,
+          "0.5": 27274.942608837304,
+          "0.7": 27274.942608837304
+        }
+      },
+      "offline_meta": {
+        "pk5": 0.0056335888379988605,
+        "pk10": 0.01107369583005389,
+        "pk20": 0.020550210124953016,
+        "unsafe": 0.27012571966435867,
+        "timeout": 0.7298742803356413,
+        "safe_done": 0.0
+      },
+      "action_influence_index": 0.584,
+      "expected_improvements": {
+        "completion_pct_range": [
+          63.073,
+          84.969
+        ],
+        "prediction_0.7_pct_range": [
+          70.507,
+          82.191
+        ],
+        "time_ahead_factor_range": [
+          1.175,
+          1.409
+        ],
+        "unsafe_after_pct_range": [
+          0.0,
+          11.59
+        ]
+      }
+    }
+  ],
+  "embodied": {
+    "action_influence_index": 0.091,
+    "expected_improvements": {
+      "completion_pct_range": [
+        63.204,
+        65.478
+      ],
+      "prediction_0.7_pct_range": [
+        40.433,
+        41.798
+      ],
+      "time_ahead_factor_range": [
+        1.027,
+        1.064
+      ],
+      "unsafe_after_pct_range": [
+        0.0,
+        0.0
+      ]
+    },
+    "baseline": {
+      "theta": 0.7,
+      "adapt": false,
+      "theta_min": 0.7,
+      "theta_max": 0.7,
+      "steps_cap": 10,
+      "step_time_s": 1.0,
+      "total_cases": 3888,
+      "reach": {
+        "unsafe_pct_before": 37.91,
+        "unsafe_pct_after": 0.0,
+        "completion_pct": 60.93
+      },
+      "law": {
+        "prediction_pct": {
+          "0.3": 80.47839506172839,
+          "0.5": 39.81481481481482,
+          "0.7": 39.068930041152264
+        },
+        "time_ahead_s": {
+          "0.3": 1.0009587727708533,
+          "0.5": 1.0025839793281655,
+          "0.7": 1.0072416063199474
+        }
+      }
+    }
+  }
+}
